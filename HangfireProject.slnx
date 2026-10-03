@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HangfireProject.Core/HangfireProject.Core.csproj" />
+  <Project Path="HangfireProject.Data/HangfireProject.Data.csproj" />
+  <Project Path="HangfireProject.Web/HangfireProject.Web.csproj" />
+</Solution>
